@@ -1,0 +1,35 @@
+h1 {
+  size: 25px;
+  color: red;
+}
+
+/*  Typography */
+
+li {
+  font-size: 40px;
+}
+
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Layout */
+
+body {
+  width: 500px;
+}
+
+.para {
+  color: red;
+}
+
+.test {
+  color: blue;
+}
+
+#nav-btn {
+  cursor: pointer;
+  width: 100px;
+}
+
+/* Layout */
