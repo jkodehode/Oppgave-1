@@ -133,7 +133,7 @@ body {
   background-color: rgb(255, 211, 157);
   padding-top: 50px;
   padding-bottom: 30px;
-  background-image: url("./ananas-bg.png");
+  background-image: url("./images/ananas-bg.png");
   border-radius: 20px;
 }
 .hem-container {
@@ -155,7 +155,7 @@ body {
   background-color: rgb(255, 211, 157);
   padding-top: 50px;
   padding-bottom: 30px;
-  background-image: url("./fisk-bg.png");
+  background-image: url("./images/fisk-bg.png");
 }
 
 .boatnight {
@@ -233,7 +233,7 @@ section {
 .logo2:hover {
   transform: scale(1.8);
   opacity: 0.2;
-  background: url("./logo2hover.png") no-repeat;
+  background: url("./images/logo2hover.png") no-repeat;
 }
 
 /* Første forsøk på NavBar  */
